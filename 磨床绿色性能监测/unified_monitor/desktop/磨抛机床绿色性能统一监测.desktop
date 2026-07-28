@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=磨抛机床绿色性能统一监测
+Comment=热成像、AIR-MOD、噪声与 LoRa 统一监测
+Exec=/home/w52/unified_monitor/run.sh
+Icon=utilities-system-monitor
+Terminal=false
+Categories=Utility;

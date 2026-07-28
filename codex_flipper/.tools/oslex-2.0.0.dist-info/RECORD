@@ -1,0 +1,14 @@
+oslex-2.0.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+oslex-2.0.0.dist-info/METADATA,sha256=QyZqsqvmIwiSY-nF1zEs1GGR3E1QTuPXCoHUBodA38o,6507
+oslex-2.0.0.dist-info/RECORD,,
+oslex-2.0.0.dist-info/WHEEL,sha256=QccIxa26bgl1E6uMy58deGWi-0aeIkkangHcxk2kWfw,87
+oslex-2.0.0.dist-info/licenses/LICENSE,sha256=ZXB8tGHQGN6AIY-xxMUcN60DM-WA5XusmM6JlArTpm0,1091
+oslex/__init__.py,sha256=8ckT8qNPFE040jUOoRNH5PxjiZ6uembMKvd_La-DPMo,459
+oslex/__pycache__/__init__.cpython-313.pyc,,
+oslex/__pycache__/_join.cpython-313.pyc,,
+oslex/__pycache__/_quote.cpython-313.pyc,,
+oslex/__pycache__/_split.cpython-313.pyc,,
+oslex/_join.py,sha256=tJi-bW618gLXX2J7ZSukv6LcCGItxbI47r7ysy0hBDw,1735
+oslex/_quote.py,sha256=1LJHHMa68iOUMRvoH20J90qL-Xr79j6HomRoxqEiE_o,1560
+oslex/_split.py,sha256=bJieOveuKpzTnyJriXbWpH0S66UFqGIEYGMl056jJxc,2886
+oslex/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0

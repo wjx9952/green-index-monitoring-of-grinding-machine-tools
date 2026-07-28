@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=摩抛机床绿色性能指标监测系统
+Comment=打开摩抛机床绿色性能指标监测系统
+Exec=/home/w52/Python/mlx90640_desktop/run.sh
+Path=/home/w52/Python/mlx90640_desktop
+Terminal=false
+Icon=camera-photo
+Categories=Utility;Science;
+StartupNotify=true

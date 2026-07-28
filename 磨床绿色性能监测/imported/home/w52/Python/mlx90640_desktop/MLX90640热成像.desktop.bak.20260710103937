@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=热成像与 TVOC 综合监测
+Comment=打开热成像和空气质量综合监测仪表盘
+Exec=/home/w52/Python/mlx90640_desktop/run.sh
+Path=/home/w52/Python/mlx90640_desktop
+Terminal=false
+Icon=camera-photo
+Categories=Utility;Science;
+StartupNotify=true

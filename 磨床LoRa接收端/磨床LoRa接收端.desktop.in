@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=磨床LoRa接收端
+Comment=接收并显示磨床绿色性能指标
+Exec=__APP_DIR__/run.sh
+Path=__APP_DIR__
+Icon=utilities-system-monitor
+Terminal=false
+Categories=Utility;

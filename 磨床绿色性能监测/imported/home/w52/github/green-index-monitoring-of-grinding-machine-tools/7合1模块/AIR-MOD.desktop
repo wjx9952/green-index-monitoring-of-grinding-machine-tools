@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=AIR-MOD 空气质量监测
+Comment=显示 AIR-MOD-001 七合一传感器实时数据
+Exec=/home/w52/7合一/run.sh
+Icon=utilities-system-monitor
+Terminal=false
+Categories=Utility;

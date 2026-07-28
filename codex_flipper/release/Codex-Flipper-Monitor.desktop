@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Codex Flipper Monitor
+Comment=在 Flipper Zero 上显示 Codex 状态、额度和审批
+Exec=/home/w52/github-practice/Projects/green-index-monitoring-of-grinding-machine-tools/codex_flipper/run_desktop.sh
+Path=/home/w52/github-practice/Projects/green-index-monitoring-of-grinding-machine-tools/codex_flipper
+Terminal=false
+Categories=Development;Utility;
+StartupNotify=true
