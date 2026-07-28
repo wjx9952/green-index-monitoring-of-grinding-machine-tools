@@ -1,2 +1,9 @@
 __pycache__/
 codex_flipper/.toolchain/
+
+# 常见的压缩包后缀名
+# *.tar
+# *.xz
+# *.gz
+# *.tgz
+# *.zip
